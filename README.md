@@ -1,5 +1,7 @@
 # Lab 3: Machine Learning สำหรับการจำแนกการใช้ที่ดิน
 
+ลิงก์ code ใน colab https://colab.research.google.com/drive/1SKcclUPygEGDJiqNvWblgbkLWeKkiTJs?usp=sharing
+
 * **ออกแบบ Training Strategy**
 
   ▸ ใช้ประเภทที่ดิน 5 class ได้แก่
